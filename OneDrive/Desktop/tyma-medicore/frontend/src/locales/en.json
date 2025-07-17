@@ -1,0 +1,20 @@
+{
+  "welcome": "Welcome to Disease Control AI Dashboard",
+  "login": "Login",
+  "register": "Register",
+  "logout": "Logout",
+  "username": "Username",
+  "password": "Password",
+  "email": "Email",
+  "submit": "Submit",
+  "add_health_data": "Add Health Data",
+  "upload_csv": "Upload CSV Data",
+  "ai_predictions": "AI Outbreak Predictions",
+  "outbreak_map": "Outbreak Map",
+  "cases_by_disease": "Cases by Disease & Location",
+  "cases_over_time": "Cases Over Time",
+  "filter_by_disease": "Filter by disease:",
+  "high_risk": "High-risk outbreak",
+  "new_health_data": "New health data",
+  "language": "Language"
+} 

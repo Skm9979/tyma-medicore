@@ -1,0 +1,20 @@
+{
+  "welcome": "欢迎来到疾病控制AI仪表盘",
+  "login": "登录",
+  "register": "注册",
+  "logout": "退出登录",
+  "username": "用户名",
+  "password": "密码",
+  "email": "电子邮件",
+  "submit": "提交",
+  "add_health_data": "添加健康数据",
+  "upload_csv": "上传CSV数据",
+  "ai_predictions": "AI疫情预测",
+  "outbreak_map": "疫情地图",
+  "cases_by_disease": "按疾病和地区统计病例",
+  "cases_over_time": "病例随时间变化",
+  "filter_by_disease": "按疾病筛选：",
+  "high_risk": "高风险疫情",
+  "new_health_data": "新的健康数据",
+  "language": "语言"
+} 
